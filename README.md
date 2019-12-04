@@ -1,6 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Random Color Boxes
+This is a simple React application that displays random color boxes
+
+A deployed version of the app can be found [here](https://codesandbox.io/s/github/bmuthoga/random-colored-boxes)
+
+Below is a preview of how it looks:
+
+<img src="https://i.ibb.co/3hYfCx1/random-color-boxes.gif" width="300" height="200" />
 
 ## Available Scripts
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
